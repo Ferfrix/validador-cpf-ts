@@ -1,0 +1,1 @@
+Projeto desenvolvido em TypeScript com objetivo de receber uma lista de CPFs como entrada, retornando uma lista com os CPFs válidos e inválidos.
