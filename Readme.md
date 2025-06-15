@@ -11,14 +11,14 @@
 
 # Como executar
 
-## Clone o repositório
+1. Clone o repositório
 
 https://github.com/Ferfrix/validador-cpf-ts.git
 
-## Instale as dependências
+2. Instale as dependências
 
 npm install
 
-## Execute o projeto
+3. Execute o projeto
 
 npx ts-node src/validacao.ts
