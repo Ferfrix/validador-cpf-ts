@@ -13,6 +13,8 @@
 
 # Clone o repositório
 
+https://github.com/Ferfrix/validador-cpf-ts.git
+
 # Instale as dependências
 
 npm install
