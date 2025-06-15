@@ -1,5 +1,5 @@
-### Programa validador de CPF em Typescript
-#Projeto desenvolvido em TypeScript com objetivo de receber uma lista de CPFs como entrada, retornando uma lista com os CPFs válidos e inválidos.
+# Programa validador de CPF em Typescript
+### Projeto desenvolvido em TypeScript com objetivo de receber uma lista de CPFs como entrada, retornando uma lista com os CPFs válidos e inválidos.
 
 ## Aplicações
 
@@ -9,14 +9,16 @@
 *  Validação completa de CPF de acordo com o algoritmo oficial;
 *  Pronto para execução via 'ts-node';
 
-## Como executar
+# Como executar
 
 ## Clone o repositório
 
-# Instale as dependências
+https://github.com/Ferfrix/validador-cpf-ts.git
+
+## Instale as dependências
 
 npm install
 
-# Execute o projeto
+## Execute o projeto
 
 npx ts-node src/validacao.ts
