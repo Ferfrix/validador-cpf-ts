@@ -1,12 +1,22 @@
-## Projeto desenvolvido em TypeScript com objetivo de receber uma lista de CPFs como entrada, retornando uma lista com os CPFs válidos e inválidos.
-#teste 1
+## Programa validador de CPF em Typescript
+#Projeto desenvolvido em TypeScript com objetivo de receber uma lista de CPFs como entrada, retornando uma lista com os CPFs válidos e inválidos.
 
-* teste 2
+## Aplicações
 
-  teste 3
+*  Suporte para CPF's com ou sem pontuação;
+*  Separação de CPF's válidos e inválidos;
+*  Formatação automática dos CPF's válidos para o padrão "XXX.XXX.XXX-XX";
+*  Validação completa de CPF de acordo com o algoritmo oficial;
+*  Pronto para execução via 'ts-node';
 
-## teste
+## Como executar
 
-# teste 5
+### Clone o repositório
 
-asdasd
+# Instale as dependências
+
+npm install
+
+# Execute o projeto
+
+npx ts-node src/validacao.ts
