@@ -11,7 +11,7 @@
 
 ## Como executar
 
-# Clone o repositório
+Clone o repositório
 
 https://github.com/Ferfrix/validador-cpf-ts.git
 
